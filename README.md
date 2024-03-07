@@ -1,4 +1,4 @@
-#SE LAB Project - 2024
+##SE LAB Project - 2024
 
 Through this project, we aim to design a  supermarket automation system which would help manage and manipulate a real time software for a supermarket.
 
